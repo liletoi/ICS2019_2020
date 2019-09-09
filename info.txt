@@ -1,3 +1,4 @@
 Name: Lane Lunsford
-Class: Int. Comp. Sci.
+Class: Intgrated Computer Science
 Year: 2019 
+
