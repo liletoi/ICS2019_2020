@@ -14,7 +14,7 @@ public class Program{
 		shapes = in.nextInt();
 		Turtle turtle;
 		turtle = new Turtle();
-		angle = 360 / shapes;
+		angle = 360.0 / shapes;
 		count = shapes;
 		polygon(angle, turtle, count);	
 	}
