@@ -1,0 +1,4 @@
+The program was written in Python 3.7.3.  The libraries sklearn, pandas, matplotlib, seaborn, numpy were used.
+The data was collected from the All About Wildlife website as well as Wikipedia. The estimated populations and endangered species categories were collected from the website. The classes and continents of origin were collected from the individual animals’ Wikipedia pages.
+The parameters used were the estimated current population, the continent of origin, and the class the species fall under. The outcome was the endangered species classification the species in question falls under. These classifications are Near-Endangered, Threatened, Vulnerable, Endangered, Critically Endangered. 
+The data was shuffled, trained, and tested. 
